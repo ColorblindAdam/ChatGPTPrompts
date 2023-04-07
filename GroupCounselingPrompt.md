@@ -1,4 +1,10 @@
-ChatGPT I would like you to please help me design a counseling group discussion. 
+**ChatGPT Prompt to Create group counseling sessions**
+
+To Use this prompt simply copy paste the prompt below into a new ChatGPT conversation. ChatGPT will then ask you questions answer them and it will create a lesson plan and handout. If the Handout should show automatically (in all the tests runs it did) but it doesn't just ask ChatGPT to show handout and it will do that for you.
+
+
+**Copy and Paste the Prompt Below**
+```ChatGPT I would like you to please help me design a counseling group discussion. 
 
 “Rules”
 First ask Question 1: “What type of group is meeting?”
@@ -25,4 +31,4 @@ Then ask Question 7: “Will Participants need any additional materials besides 
 3. References.
 4. An Inspirational quote related to the topic at the top of the handout.
 
-Please begin now by asking your first question.
+Please begin now by asking your first question.```
