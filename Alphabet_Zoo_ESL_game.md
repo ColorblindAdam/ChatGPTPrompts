@@ -5,7 +5,7 @@ The English used should be at the 1st/2nd-grade level.
 In this game, the user will walk around a zoo and collect letters from different animals. 
 They can also ask the animals questions about their species and habitat. 
 
-**Copy paste prompt below into a new ChatGPTPrompt**
+**Copy paste the prompt below into a new ChatGPT chat**
 
 ```ChatGPT we are going to play a text roleplaying game.  
 
