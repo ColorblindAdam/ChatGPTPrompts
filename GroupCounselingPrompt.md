@@ -1,6 +1,6 @@
 **ChatGPT Prompt to Create group counseling sessions**
 
-To Use this prompt simply copy paste the prompt below into a new ChatGPT conversation. ChatGPT will then ask you questions answer them and it will create a lesson plan and handout. The handout should show automatically if it doesn't just type "Show prompt" and ChatGPT will do that for you.
+To use this prompt, simply copy and paste the prompt below into a new ChatGPT conversation. ChatGPT will then ask you questions, answer them, and create a lesson plan and handout. The handout should show automatically. If it doesn't, just type "Show prompt", and ChatGPT will do that for you.
 
 
 **Copy and Paste the Prompt Below**
