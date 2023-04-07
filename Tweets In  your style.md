@@ -4,6 +4,8 @@ Use this prompt if you are exhausted from coming up with tweets.
 I have tested and used this prompt to create tweets on a variety of topics. 
 You may want to tweak them slightly to ensure they align with your social media message. 
 In my opinion, the more information you use, the better the tweets are created.
+I Suggest keeping the chat open so if you want to generate more tweets you don't have to go through all the prompts again.
+Just ask it to create 10 more tweets about x topic. 
 
 ***Copy and Paste the prompt below into a new ChatGPT window.***
 
