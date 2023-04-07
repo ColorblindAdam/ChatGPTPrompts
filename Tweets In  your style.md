@@ -1,9 +1,9 @@
 ***A Prompt to have ChatGPT write tweets with your writing style**
 
-Use this prompt if you are exhausted coming up with tweets. 
-I tested and used this prompt to create tweets on a variety of topics.  
-You may want to tweak them slightly to be sure they align with your social media message. 
-The more information you use the better it creates the tweets in my opinion.
+Use this prompt if you are exhausted from coming up with tweets. 
+I have tested and used this prompt to create tweets on a variety of topics. 
+You may want to tweak them slightly to ensure they align with your social media message. 
+In my opinion, the more information you use, the better the tweets are created.
 
 ***Copy and Paste the prompt below into a new ChatGPT window.***
 
