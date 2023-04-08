@@ -4,6 +4,7 @@ It is important to understand that I do not condone cheating.
 I do however believe in using tools to make human lives easier. 
 ChatGPT makes claims and assertations that are not always true.
 Be careful to look over the information created very carefully.
+When running multiple iterations ChatGPT may forget to include citations just say "Citations please" and it will add them.
 
 **Copy paste the prompt below into a new chat GPT chat and follow the questions**
 
