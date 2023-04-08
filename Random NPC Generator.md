@@ -6,7 +6,8 @@ Feel free to delete sections you don't need.
 I like it displayed in Markdown so it is easy to read and copy paste.
 
 **Copy Paste the prompt below into ChatGPT**
-```ChatGPT Please create an NPC for a D&D 5E game.  Please display the NPC information in markdown.
+```
+ChatGPT Please create an NPC for a D&D 5E game.  Please display the NPC information in markdown.
 
 Name
 Age
