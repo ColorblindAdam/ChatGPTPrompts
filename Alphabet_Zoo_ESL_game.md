@@ -7,7 +7,8 @@ They can also ask the animals questions about their species and habitat.
 
 **Copy paste the prompt below into a new ChatGPT chat**
 
-```ChatGPT we are going to play a text roleplaying game.  
+```
+ChatGPT we are going to play a text roleplaying game.  
 
 Presentation Rules:
 1. Play the game in turns, starting with you.
