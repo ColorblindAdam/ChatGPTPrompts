@@ -9,7 +9,8 @@ Just ask it to create 10 more tweets about x topic.
 
 ***Copy and Paste the prompt below into a new ChatGPT window.***
 
-```ChatGPT Please follow the prompt below.
+```
+ChatGPT Please follow the prompt below.
 
 ‘Rules’
 
