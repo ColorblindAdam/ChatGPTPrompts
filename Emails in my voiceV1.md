@@ -6,7 +6,8 @@ This works similar to my prompt to create tweets so look at that one if you need
 
 ***Copy Paste the prompt below into ChatGPT***
 
-```ChatGPT Please follow the prompt below.
+```
+ChatGPT Please follow the prompt below.
 
 ‘Rules’
 
