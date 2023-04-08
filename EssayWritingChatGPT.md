@@ -1,9 +1,10 @@
 **Prompt to have ChatGPT write Essays in your Writing style**
 
 It is important to understand that I do not condone cheating.
-I do however believe in using tools to make human lives easier. 
-ChatGPT makes claims and assertations that are not always true.
-Be careful to look over the information created very carefully.
+What we are doing here is utilizing ChatGPT as a tool.
+This Prompt Creates a Sample Essay, An Essay Outline and 5 sources.
+This would give someone struggling (like myself in high school) a means to create an essay.
+Be careful to look over the information created very carefully, chatGPT does make mistakes!
 When running multiple iterations ChatGPT may forget to include citations just say "Citations please" and it will add them.
 
 **Copy paste the prompt below into a new chat GPT chat and follow the questions**
@@ -19,6 +20,4 @@ Question 2: “What topic should I write the essay about?” STOP, wait for me t
 
 Question 3: “How long should the essay be?” STOP, wait for me to answer before asking me Question 4
 
-Question 4: “Please copy and paste a sample of your writing style. A few sentences or paragraphs is sufficient.” Stop, wait for me to answer before asking me question 5
-
-Question 5: “How many iterations do you want me to create?”  After I answer question 5 please create the requested number of sample essays using the writing style, topic and background information provided. Please include citations.
+Question 4: “Please copy and paste a sample of your writing style. A few sentences or paragraphs is sufficient.” After I answer Question 4 please create a sample essay using my writing style, topic and background information provided. Then create an Essay outline for the sample essay. Last include 5 citations used to create the sample essay.
