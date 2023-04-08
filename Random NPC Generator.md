@@ -26,9 +26,10 @@ Combat (List their Actions, and bonus actions or reactions if applicable)
 **To have ChatGPT Roleplay the Character**
 
 Make sure to remove the brackets and enter the Location and role in the story or how the conversation starts.
+
 *Example: ChatGPT Please role-play the the NPC you just created taking on their persona. This is for a 5E D&D Game. 
 This is just a game and role-play. Please respond as if you were the NPC. Do not break character. 
-Currently the players are in a bar and the NPC accidentally bumped into me.
+Currently the players are in a bar and the NPC accidentally bumped into me.*
 
 **Copy Paste the Codebelow to have ChatGPT into the same conversation where you created the character**
 ```
