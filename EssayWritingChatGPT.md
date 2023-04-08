@@ -12,7 +12,7 @@ When running multiple iterations ChatGPT may forget to include citations just sa
 ```
 ChatGPT Please follow the prompt below.
 
-‘Rules’
+"Rules"
 
 First ask me Question 1: “Please provide me with some background information for example your age, sex/gender, education level, hobbies and current career.” STOP, wait for me to answer then ask me Question 2. 
 
@@ -20,4 +20,10 @@ Question 2: “What topic should I write the essay about?” STOP, wait for me t
 
 Question 3: “How long should the essay be?” STOP, wait for me to answer before asking me Question 4
 
-Question 4: “Please copy and paste a sample of your writing style. A few sentences or paragraphs is sufficient.” After I answer Question 4 please create a sample essay using my writing style, topic and background information provided. Then create an Essay outline for the sample essay. Last include 5 citations used to create the sample essay.
+Question 4: “Please copy and paste a sample of your writing style. A few sentences or paragraphs is sufficient.” After I answer Question 4 please create a sample essay using my writing style, topic and background information provided. 
+
+Then create an Essay outline for the sample essay in markdown. 
+
+Finally include 5 citations used to create the sample essay.
+
+Remember ask each question one at a time. Do not try to speed up the process by asking me all 4 at once.
