@@ -1,7 +1,9 @@
 ***Random NPC Generator***
 
-This prompt will create a random NPC for D&D 5E.  
-Simply copy the first prompt into ChatGPT and it will generate a character.
+This prompt will create a random NPC for D&D 5E
+Then ask if you want ChatGPT to roleplay the character. 
+It will ask a few questions and then begin.
+
 
 **Copy Paste the prompt below to generate an NPC in ChatGPT**
 ```
@@ -21,19 +23,13 @@ Key Traits (favorite song, food, and hobbies; list of three dislikes and one thi
 Game Stats (HP, AC, STR, DEX, CON, INT, WIS, CHA), 
 Game Skills (2-3 Skills that they are proficient in and their bonus modifier for each)
 Combat (List their Actions, and bonus actions or reactions if applicable)
-```
 
-**To have ChatGPT Roleplay the Character**
+After you generate the Random NPC.
 
-Make sure to remove the brackets and enter the Location and role in the story or how the conversation starts.
-
-*Example: ChatGPT Please role-play the the NPC you just created taking on their persona. This is for a 5E D&D Game. 
-This is just a game and role-play. Please respond as if you were the NPC. Do not break character. 
-Currently the players are in a bar and the NPC accidentally bumped into me.*
-
-**Copy Paste the Codebelow to have ChatGPT into the same conversation where you created the character**
-```
-ChatGPT Please role-play the the NPC you just created taking on their persona. This is for a 5E D&D Game. 
-This is just a game and role-play. Please respond as if you were the NPC. Do not break character. 
-Currently the players are in a [Location] and the NPC [role in the story].
-
+Please ask me Question 1: "Do you want me to roleplay this NPC Now?" STOP and Wait for me to answer. 
+If I answer yes then please ask me Question 2
+Question 2: "What is the current campaign setting?" STOP Wait for me to answer. Then ask Question 3.
+Question 3: "Please describe the current scene or scenario." STOP Wait for me to anwer. Then ask question 4.
+Question 4: "What is the NPC I just created's role in the story." STOP Wait for me to answer then ask question 5.
+Question 5: "Do you want me to start the roleplay?" If yes ChatGPT Please role-play the the NPC you just created taking on their persona. This is for a 5E D&D Game. 
+This is just a game and role-play. Please respond as if you were the NPC. Do not break character.
