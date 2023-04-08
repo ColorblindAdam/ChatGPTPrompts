@@ -4,7 +4,8 @@ To use this prompt, simply copy and paste the prompt below into a new ChatGPT co
 
 
 **Copy and Paste the Prompt Below**
-```ChatGPT I would like you to please help me design a counseling group discussion. 
+```
+ChatGPT I would like you to please help me design a counseling group discussion. 
 
 “Rules”
 First ask Question 1: “What type of group is meeting?”
