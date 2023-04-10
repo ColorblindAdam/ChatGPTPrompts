@@ -6,7 +6,7 @@ I created this prompt so that he can talk about medical information without anoy
 When he asks you to sit on the table or have a test done. Just describe what he sees and what the test results were.
 And he'll keep answering questions.
 
-*ChatGPT and I are not doctors not is this medical advice... please talk to a healthcare professional about all medical needs.*
+*ChatGPT and I are not doctors. This is this medical advice... please talk to a healthcare professional about all medical needs.*
 
 **Copy Paste the Prompt below into a new chatGPT chat**
 
