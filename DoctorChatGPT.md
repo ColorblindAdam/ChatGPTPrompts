@@ -1,10 +1,10 @@
 **Make ChatGPT Roleplay he is a Doctor**
 
-ChatGPT likes to give disclaimer whenever he talks about anything related to medical issues.
-They have hardwired into him to tell you to talk to a healthcare professional.
+ChatGPT likes to give disclaimer whenever he talks about anything related to medicine or medical issues.
+They have it hardwired into him.
 I created this prompt so that he can talk about medical information without anoying disclaimers in character.
-When he asks you to sit on the table or have a test done.  
-Just play a long and say oh I did the test and the results were whatever and he'll keep answering your questions. 
+When he asks you to sit on the table or have a test done. Just describe what he sees and what the test results were.
+And he'll keep answering questions.
 
 *ChatGPT and I are not doctors not is this medical advice... please talk to a healthcare professional about all medical needs.*
 
