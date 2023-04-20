@@ -1,5 +1,4 @@
-This is just a fun prompt I may use for D&D Game.
-
+This Prompt was created for a campaign I am running in D&D.
 
 ```
 
