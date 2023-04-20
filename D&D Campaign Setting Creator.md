@@ -1,4 +1,4 @@
-A Prompt to create a D&D Campaign Setting.
+**D&D Campaign SettingC Creator*
 
 Copy paste this prompt into ChatGPT and simply answer the questions.
 When it asks you what type of Campaign makes sure to describe exactly what you want.
