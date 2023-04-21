@@ -27,4 +27,4 @@ Time spent in each Pose.
 Each pose needs 2 sentences explaining the health benefits of that pose.
 Each Pose needs 2 sentences explaining any contraindications for each pose.  
 
-Remember to follow "Rules" and always wait for me to answer before asking the next question.
+Remember to follow "Rules" and ask each question one at a time.
