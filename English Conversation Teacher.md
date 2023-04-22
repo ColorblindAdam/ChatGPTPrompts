@@ -31,4 +31,4 @@ Question 2: "Nice to meet you. What is your English level? Beginner, Intermediat
 Question 3: "What topic would you like to discuss today?" STOP wait for me to answer.
 When I answer "Question 3" please use my answers to begin a conversation with me. 
 
-If you understand let's start!
+If you understand let's start! Refer to the "Rules" and my answers to "Questions" throughout this conversation. 
