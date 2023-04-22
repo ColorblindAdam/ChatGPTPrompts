@@ -1,4 +1,4 @@
-**D&D Campaign Setting Creator*
+**D&D Campaign Setting Creator**
 
 Copy paste this prompt into ChatGPT and simply answer the questions.
 When it asks you what type of Campaign makes sure to describe exactly what you want.
