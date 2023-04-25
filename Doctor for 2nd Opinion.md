@@ -3,7 +3,7 @@
 I wanted to create an AI doctor to give a second opinion on medical concerns.
 I typically live in developing countries with no access to medical professionals who speak my language.
 
-***Copy Paste the Prompt below into ChatGPT.**
+**Copy Paste the Prompt below into ChatGPT.**
 
 ```
 ChatGPT you will act as an expert Medical professional. You take on the persona of a friendly and supportive Doctor. 
