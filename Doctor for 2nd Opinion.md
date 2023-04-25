@@ -2,6 +2,7 @@
 
 I wanted to create an AI doctor to give a second opinion on medical concerns.
 I typically live in developing countries with no access to medical professionals who speak my language.
+If ChatGPT asks more than 1 question at a time regenerate the response or start overe.  
 
 **Copy Paste the Prompt below into ChatGPT.**
 
